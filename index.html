@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reading Catalog</title>
+  <meta name="description" content="Compact personal book catalog powered by Airtable API.">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- Compact Header -->
+  <header class="app-header">
+    <div class="container header-content">
+      <div class="brand">
+        <span class="brand-icon">📚</span>
+        <span class="brand-title">Reading Catalog</span>
+        <span class="brand-subtitle">• Yearly Overview</span>
+      </div>
+      
+      <div class="header-actions">
+        <button id="theme-toggle" class="btn-icon" title="Toggle Theme">☀️ Dark</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    
+    <!-- Compact Dashboard Bar -->
+    <section class="compact-dashboard">
+      <div class="dash-top-row">
+        <!-- Inline Stats -->
+        <div class="inline-stats">
+          <div class="stat-item">
+            <span class="stat-value" id="stat-total-read">100</span>
+            <span class="stat-label">Total Read</span>
+          </div>
+          <span style="color: var(--border-color);">|</span>
+          <div class="stat-item">
+            <span class="stat-value" id="stat-active-year">100</span>
+            <span class="stat-label" id="active-year-label">Showing All</span>
+          </div>
+          <span style="color: var(--border-color);">|</span>
+          <div class="stat-item">
+            <span class="stat-value" id="stat-total-authors">66</span>
+            <span class="stat-label">Authors</span>
+          </div>
+          <span style="color: var(--border-color);">|</span>
+          <div class="stat-item">
+            <span class="stat-value" id="stat-top-category">fiction</span>
+            <span class="stat-label">Top Category</span>
+          </div>
+          <span style="color: var(--border-color);">|</span>
+          <div class="stat-item">
+            <span class="stat-value" id="stat-top-tag">N/A</span>
+            <span class="stat-label">Top Tag</span>
+          </div>
+        </div>
+
+
+      </div>
+
+      <!-- Year Timeline Pills -->
+      <div class="year-pills-row" id="year-pills">
+        <!-- Year pills generated via JS -->
+      </div>
+    </section>
+
+    <!-- Toolbar & Filter Strip -->
+    <section>
+      <div class="toolbar">
+        <input type="text" id="search-input" class="search-input" placeholder="Search title, author, notes...">
+
+        <select id="category-select" class="select-custom">
+          <option value="ALL">All Categories</option>
+          <option value="fiction">Fiction</option>
+          <option value="nonfiction">Nonfiction</option>
+        </select>
+
+        <select id="language-select" class="select-custom">
+          <option value="ALL">All Languages</option>
+          <option value="english">English</option>
+          <option value="chinese">Chinese</option>
+        </select>
+
+        <select id="sort-select" class="select-custom">
+          <option value="date-desc">Newest Read</option>
+          <option value="date-asc">Oldest Read</option>
+          <option value="title-asc">Title (A-Z)</option>
+        </select>
+
+        <div class="view-toggle">
+          <button id="view-grid-btn" class="btn-icon" style="border-color: var(--accent-primary);" title="Grid View">📱 Grid</button>
+          <button id="view-table-btn" class="btn-icon" title="Table View">☰ List</button>
+        </div>
+      </div>
+
+      <!-- Tag Strip -->
+      <div class="tag-strip" id="tag-bar">
+        <!-- Tag pills generated via JS -->
+      </div>
+    </section>
+
+    <!-- Book Catalog Display (Grid / Table) -->
+    <section id="catalog-display">
+      <div class="book-grid" id="book-grid">
+        <!-- Cards generated via JS -->
+      </div>
+    </section>
+  </main>
+
+  <!-- Notes Modal -->
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal-card">
+      <button class="modal-close" id="modal-close">✕</button>
+      <h2 class="modal-title" id="modal-title">Book Title</h2>
+      <div class="modal-author" id="modal-author">By Author</div>
+      <div id="modal-badges" style="display: flex; gap: 0.3rem; flex-wrap: wrap;"></div>
+      <div class="modal-notes-body" id="modal-notes-body">
+        <!-- Notes text -->
+      </div>
+    </div>
+  </div>
+
+  <footer class="app-footer">
+    <div class="container">
+      <p>Reading Catalog • Airtable Data</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

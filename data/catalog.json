@@ -1,0 +1,2459 @@
+{
+  "last_synced": "2026-09-02T21:36:24.488917Z",
+  "total_books": 121,
+  "total_read": 100,
+  "years": [
+    2026,
+    2025,
+    2024,
+    2023,
+    2022,
+    2021,
+    2020,
+    2019,
+    2018,
+    2017
+  ],
+  "years_breakdown": {
+    "2026": 5,
+    "2025": 9,
+    "2024": 9,
+    "2023": 11,
+    "2022": 10,
+    "2021": 15,
+    "2020": 5,
+    "2019": 15,
+    "2018": 15,
+    "2017": 6
+  },
+  "books": [
+    {
+      "id": "rec7e9gULcGP6SmXy",
+      "title": "Prisoners of Geography",
+      "author": "Tim Marshall",
+      "author_ids": [
+        "recBjjdstdSfBt1om"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "general knowledge",
+        "history"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2026-08-30T04:57:56.000Z",
+      "created_date": "2026-08-30T04:57:30.000Z",
+      "effective_date": "2026-08-30T04:57:56.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "rec9LimBspUtOAuA7",
+      "title": "太白金星有点烦",
+      "author": "马伯庸",
+      "author_ids": [
+        "rect9s2hj0tVwhUxI"
+      ],
+      "category": "fiction",
+      "tags": [
+        "古言"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "Really good, although a bit of a slow start",
+      "read_modified_date": "2026-06-02T17:44:28.000Z",
+      "created_date": "2026-06-02T17:44:04.000Z",
+      "effective_date": "2026-06-02T17:44:28.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "recjuKoICrMyUpwX8",
+      "title": "Why Nations Fail",
+      "author": "Daron Acemoglu, James A. Robinson",
+      "author_ids": [
+        "rec59MQTA3ECUUEaL",
+        "recjEMhBpRh1yyWzm"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "general knowledge",
+        "history"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2026-05-31T15:48:08.000Z",
+      "created_date": "2026-05-31T15:47:30.000Z",
+      "effective_date": "2026-05-31T15:48:08.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "recPlhfxZ8LBgAY4c",
+      "title": "龙与地下铁",
+      "author": "马伯庸",
+      "author_ids": [
+        "rect9s2hj0tVwhUxI"
+      ],
+      "category": "fiction",
+      "tags": [
+        "古言"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "",
+      "read_modified_date": "2026-05-24T08:01:44.000Z",
+      "created_date": "2026-05-24T08:01:21.000Z",
+      "effective_date": "2026-05-24T08:01:44.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "recu86rELZ3iNAf3s",
+      "title": "Five Little Pigs",
+      "author": "Agatha Christie",
+      "author_ids": [
+        "rec7SQqaPDexRiVQa"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2026-04-19T15:23:27.000Z",
+      "created_date": "2026-04-19T15:22:51.000Z",
+      "effective_date": "2026-04-19T15:23:27.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "rect8Zbj1rm9QC5zE",
+      "title": "青云台",
+      "author": "沉筱之",
+      "author_ids": [
+        "recLIOq6rrcYx1eBH"
+      ],
+      "category": "fiction",
+      "tags": [
+        "古言"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "A bit boring",
+      "read_modified_date": "2025-09-04T05:02:50.000Z",
+      "created_date": "2025-09-04T05:02:16.000Z",
+      "effective_date": "2025-09-04T05:02:50.000Z",
+      "read_year": 2025
+    },
+    {
+      "id": "recqPtNlw8Rr3KxYQ",
+      "title": "孤城闭",
+      "author": "米兰lady",
+      "author_ids": [
+        "rec5p69G8PpbRcy9B"
+      ],
+      "category": "fiction",
+      "tags": [
+        "言情",
+        "古言"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "男主是太监",
+      "read_modified_date": "2025-07-19T04:22:19.000Z",
+      "created_date": "2025-07-19T04:21:39.000Z",
+      "effective_date": "2025-07-19T04:22:19.000Z",
+      "read_year": 2025
+    },
+    {
+      "id": "recuVdOsNPwK2Cxfy",
+      "title": "绝叫",
+      "author": "叶真中显",
+      "author_ids": [
+        "recrYMTTU4HcPSjXh"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案",
+        "现代"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2025-07-12T22:09:46.000Z",
+      "created_date": "2025-07-12T22:09:25.000Z",
+      "effective_date": "2025-07-12T22:09:46.000Z",
+      "read_year": 2025
+    },
+    {
+      "id": "recEoXdhQHJ2t5bxB",
+      "title": "你杀了谁",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "Not very good, very boring",
+      "read_modified_date": "2025-06-01T20:24:32.000Z",
+      "created_date": "2025-06-01T20:24:15.000Z",
+      "effective_date": "2025-06-01T20:24:32.000Z",
+      "read_year": 2025
+    },
+    {
+      "id": "recZUwR8KjLwXrAGE",
+      "title": "The Murder of Roger Ackroyd",
+      "author": "Agatha Christie",
+      "author_ids": [
+        "rec7SQqaPDexRiVQa"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2025-05-14T11:20:57.000Z",
+      "created_date": "2025-05-14T11:20:36.000Z",
+      "effective_date": "2025-05-14T11:20:57.000Z",
+      "read_year": 2025
+    },
+    {
+      "id": "recz6LBnzqJEPFGNv",
+      "title": "圣母",
+      "author": "秋吉理香子",
+      "author_ids": [
+        "recYq5KRqgHJzCdNd"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective",
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2025-04-20T09:44:25.000Z",
+      "created_date": "2025-04-20T09:43:57.000Z",
+      "effective_date": "2025-04-20T09:44:25.000Z",
+      "read_year": 2025
+    },
+    {
+      "id": "rec1fRJ0vEwFiMH3Y",
+      "title": "何不同舟渡",
+      "author": "羡鱼珂",
+      "author_ids": [
+        "recpKo7fKC7tigxnC"
+      ],
+      "category": "fiction",
+      "tags": [
+        "言情",
+        "古言"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2025-04-14T22:19:55.000Z",
+      "created_date": "2025-04-14T22:19:23.000Z",
+      "effective_date": "2025-04-14T22:19:55.000Z",
+      "read_year": 2025
+    },
+    {
+      "id": "rec5l8DzUo2BUiM1x",
+      "title": "消失的13级台阶",
+      "author": "高野和明",
+      "author_ids": [
+        "recYBXvhJX5V403Ww"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Not as good as they say",
+      "read_modified_date": "2025-04-13T14:41:08.000Z",
+      "created_date": "2025-04-13T14:39:54.000Z",
+      "effective_date": "2025-04-13T14:41:08.000Z",
+      "read_year": 2025
+    },
+    {
+      "id": "recwZz9m58B8VqT1O",
+      "title": "Evil under the sun",
+      "author": "Agatha Christie",
+      "author_ids": [
+        "rec7SQqaPDexRiVQa"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案",
+        "detective"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2025-02-16T18:07:30.000Z",
+      "created_date": "2025-02-16T18:07:10.000Z",
+      "effective_date": "2025-02-16T18:07:30.000Z",
+      "read_year": 2025
+    },
+    {
+      "id": "rec0SMKP4cIWYPBhN",
+      "title": "无名之町",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Quite boring",
+      "read_modified_date": "2024-10-15T20:10:49.000Z",
+      "created_date": "2024-10-15T20:10:06.000Z",
+      "effective_date": "2024-10-15T20:10:49.000Z",
+      "read_year": 2024
+    },
+    {
+      "id": "recRBkSwXALOH4uG4",
+      "title": "Die With Zero",
+      "author": "Bill Perkins",
+      "author_ids": [
+        "recmJOTBMESWd8KTo"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "general knowledge"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "First two chapters explain most of it",
+      "read_modified_date": "2024-10-05T19:32:54.000Z",
+      "created_date": "2024-10-05T19:32:39.000Z",
+      "effective_date": "2024-10-05T19:32:54.000Z",
+      "read_year": 2024
+    },
+    {
+      "id": "recwGzT8Pp93NynDH",
+      "title": "Murder on the Links",
+      "author": "Agatha Christie",
+      "author_ids": [
+        "rec7SQqaPDexRiVQa"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案",
+        "detective"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2024-09-22T04:52:03.000Z",
+      "created_date": "2024-09-22T04:51:42.000Z",
+      "effective_date": "2024-09-22T04:52:03.000Z",
+      "read_year": 2024
+    },
+    {
+      "id": "recKOaWW7BvgXu13b",
+      "title": "Distress",
+      "author": "Greg Egan",
+      "author_ids": [
+        "recDwyaQlRgGNCV5N"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2024-09-15T05:53:15.000Z",
+      "created_date": "2024-09-15T05:52:49.000Z",
+      "effective_date": "2024-09-15T05:53:15.000Z",
+      "read_year": 2024
+    },
+    {
+      "id": "recVVW5GW3PYUimzg",
+      "title": "Permutation City",
+      "author": "Greg Egan",
+      "author_ids": [
+        "recDwyaQlRgGNCV5N"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2024-07-13T06:53:50.000Z",
+      "created_date": "2024-07-13T06:53:24.000Z",
+      "effective_date": "2024-07-13T06:53:50.000Z",
+      "read_year": 2024
+    },
+    {
+      "id": "recgKxc3FFIvluJAD",
+      "title": "All the Light We Cannot See",
+      "author": "Anthony Doerr",
+      "author_ids": [
+        "rect3lA1GGcKn90Ll"
+      ],
+      "category": "fiction",
+      "tags": [
+        "history"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2024-02-25T07:07:09.000Z",
+      "effective_date": "2024-02-25T07:07:09.000Z",
+      "read_year": 2024
+    },
+    {
+      "id": "recTAbQ9LHj3YXVi1",
+      "title": "The Mysterious Affair at Styles",
+      "author": "Agatha Christie",
+      "author_ids": [
+        "rec7SQqaPDexRiVQa"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2024-02-25T07:05:25.000Z",
+      "created_date": "2024-02-25T07:03:59.000Z",
+      "effective_date": "2024-02-25T07:05:25.000Z",
+      "read_year": 2024
+    },
+    {
+      "id": "reccmm8K3cTFLbOHh",
+      "title": "And then there were none",
+      "author": "Agatha Christie",
+      "author_ids": [
+        "rec7SQqaPDexRiVQa"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2024-01-21T01:31:41.000Z",
+      "created_date": "2024-01-21T01:31:11.000Z",
+      "effective_date": "2024-01-21T01:31:41.000Z",
+      "read_year": 2024
+    },
+    {
+      "id": "recnFaahdPqr5qRAN",
+      "title": "Death on the Nile",
+      "author": "Agatha Christie",
+      "author_ids": [
+        "rec7SQqaPDexRiVQa"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2024-01-15T12:27:17.000Z",
+      "created_date": "2024-01-15T12:26:32.000Z",
+      "effective_date": "2024-01-15T12:27:17.000Z",
+      "read_year": 2024
+    },
+    {
+      "id": "recxjgGIqgqU3bcDc",
+      "title": "Murder on the Orient Express",
+      "author": "Agatha Christie",
+      "author_ids": [
+        "rec7SQqaPDexRiVQa"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2024-01-07T17:42:44.000Z",
+      "created_date": "2024-01-07T17:42:23.000Z",
+      "effective_date": "2024-01-07T17:42:44.000Z",
+      "read_year": 2024
+    },
+    {
+      "id": "recsz5MMRIqo9t5Fp",
+      "title": "艳骨",
+      "author": "梦魇殿下",
+      "author_ids": [
+        "recAFPHOEtN9iU405"
+      ],
+      "category": "fiction",
+      "tags": [
+        "言情"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "better than expected, the plot was bad but the 文笔was quite good and some characters were likeable.",
+      "read_modified_date": "2023-12-26T04:57:21.000Z",
+      "created_date": "2023-12-26T04:56:36.000Z",
+      "effective_date": "2023-12-26T04:57:21.000Z",
+      "read_year": 2023
+    },
+    {
+      "id": "rechq0m1Dfj9JnozC",
+      "title": "The Hitchhiker's guide to the galaxy (all 5 books)",
+      "author": "Douglas Adams",
+      "author_ids": [
+        "recs00mK6gjVunR3T"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "",
+      "read_modified_date": "2023-12-26T04:56:12.000Z",
+      "created_date": "2023-12-26T04:55:38.000Z",
+      "effective_date": "2023-12-26T04:56:12.000Z",
+      "read_year": 2023
+    },
+    {
+      "id": "rec41LpSbKLpYRh8C",
+      "title": "从前我死去的家",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2023-12-18T09:32:32.000Z",
+      "created_date": "2023-12-18T09:31:57.000Z",
+      "effective_date": "2023-12-18T09:32:32.000Z",
+      "read_year": 2023
+    },
+    {
+      "id": "recObYAn1pTHqXXQp",
+      "title": "透明的螺旋",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2023-12-17T11:18:53.000Z",
+      "created_date": "2023-12-17T11:17:55.000Z",
+      "effective_date": "2023-12-17T11:18:53.000Z",
+      "read_year": 2023
+    },
+    {
+      "id": "recSBgZ9c7tRXQL2j",
+      "title": "Last chance to see",
+      "author": "Douglas Adams",
+      "author_ids": [
+        "recs00mK6gjVunR3T"
+      ],
+      "category": "nonfiction",
+      "tags": [],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Apparently it's very funny",
+      "read_modified_date": "2023-12-14T13:08:34.000Z",
+      "created_date": "2022-04-24T23:30:23.000Z",
+      "effective_date": "2023-12-14T13:08:34.000Z",
+      "read_year": 2023
+    },
+    {
+      "id": "recBqdQSameA9Xbg0",
+      "title": "The Forge of God",
+      "author": "Greg Bear",
+      "author_ids": [
+        "recRTeuAqOStFknIo"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Apparently should be one of science fiction classics\nVery boring",
+      "read_modified_date": "2023-12-02T04:27:24.000Z",
+      "created_date": "2022-04-24T23:35:32.000Z",
+      "effective_date": "2023-12-02T04:27:24.000Z",
+      "read_year": 2023
+    },
+    {
+      "id": "recjtx4jNOpkwFEuH",
+      "title": "Wanderers",
+      "author": "Chuck Wendig",
+      "author_ids": [
+        "recFFGr2WS0AMDkKf"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2023-09-25T04:16:53.000Z",
+      "created_date": "2023-09-25T04:16:29.000Z",
+      "effective_date": "2023-09-25T04:16:53.000Z",
+      "read_year": 2023
+    },
+    {
+      "id": "recar3XY09Abt6TFh",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "author_ids": [
+        "rec5tGEsvsD1uzPMC"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "history",
+        "philosophy",
+        "general knowledge"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2023-09-06T07:31:44.000Z",
+      "created_date": "2023-09-04T21:40:22.000Z",
+      "effective_date": "2023-09-06T07:31:44.000Z",
+      "read_year": 2023
+    },
+    {
+      "id": "recdbX9gq94xlH96R",
+      "title": "原谅我红尘颠倒",
+      "author": "慕容雪村",
+      "author_ids": [
+        "recvV0JnVm51F5jRC"
+      ],
+      "category": "fiction",
+      "tags": [
+        "现代"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "曾用名《满城衣冠》，《谁的心不曾柔软》。文笔很好，黑暗至极，",
+      "read_modified_date": "2023-07-14T23:48:02.000Z",
+      "created_date": "2023-07-14T23:47:42.000Z",
+      "effective_date": "2023-07-14T23:48:02.000Z",
+      "read_year": 2023
+    },
+    {
+      "id": "recSEZm5E7SovS09j",
+      "title": "Blindsight",
+      "author": "Peter Watts",
+      "author_ids": [
+        "rec9n6YFRqeTy4o9F"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Hard scifi",
+      "read_modified_date": "2023-06-19T16:07:39.000Z",
+      "created_date": "2022-07-23T21:41:39.000Z",
+      "effective_date": "2023-06-19T16:07:39.000Z",
+      "read_year": 2023
+    },
+    {
+      "id": "reczYt70OmzhsJcsf",
+      "title": "Profession",
+      "author": "Isaac Asimov",
+      "author_ids": [
+        "rec6vmVAiQx45dbpu"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2023-04-08T22:33:01.000Z",
+      "created_date": "2023-03-30T06:16:47.000Z",
+      "effective_date": "2023-04-08T22:33:01.000Z",
+      "read_year": 2023
+    },
+    {
+      "id": "rec1ND30hHoebZAFG",
+      "title": "Dark Integers",
+      "author": "Greg Egan",
+      "author_ids": [
+        "recDwyaQlRgGNCV5N"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction",
+        "short story"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2022-11-18T02:06:09.000Z",
+      "created_date": "2022-11-18T02:05:56.000Z",
+      "effective_date": "2022-11-18T02:06:09.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "recPKKHIP9ifGIroN",
+      "title": "Luminous",
+      "author": "Greg Egan",
+      "author_ids": [
+        "recDwyaQlRgGNCV5N"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction",
+        "short story"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2022-11-17T08:12:25.000Z",
+      "created_date": "2022-11-17T08:12:10.000Z",
+      "effective_date": "2022-11-17T08:12:25.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "recx9XPBEvpAiLMN0",
+      "title": "Quarantine",
+      "author": "Greg Egan",
+      "author_ids": [
+        "recDwyaQlRgGNCV5N"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction",
+        "short story"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2022-07-31T18:33:51.000Z",
+      "created_date": "2022-07-31T18:33:19.000Z",
+      "effective_date": "2022-07-31T18:33:51.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "recwIYRkv1kxNBOcX",
+      "title": "Little Book of Semaphores",
+      "author": "Allen B. Downey",
+      "author_ids": [
+        "rec4rVNyCMS0etEio"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "programming"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf",
+      "read_modified_date": "2022-07-23T22:14:39.000Z",
+      "created_date": "2019-01-09T02:37:10.000Z",
+      "effective_date": "2022-07-23T22:14:39.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "recr0oGiuMIbCBAaC",
+      "title": "Orthogonal: The Clockwork Rocket",
+      "author": "Greg Egan",
+      "author_ids": [
+        "recDwyaQlRgGNCV5N"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "Hard scifi",
+      "read_modified_date": null,
+      "created_date": "2022-07-23T21:59:44.000Z",
+      "effective_date": "2022-07-23T21:59:44.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "recNjFwg8DQJUjCmX",
+      "title": "Dichronauts",
+      "author": "Greg Egan",
+      "author_ids": [
+        "recDwyaQlRgGNCV5N"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "Very hard scifi, read his website to understand the setting before reading it.",
+      "read_modified_date": null,
+      "created_date": "2022-07-23T21:07:36.000Z",
+      "effective_date": "2022-07-23T21:07:36.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "rec8MdVeV4HTEgZfD",
+      "title": "七爷",
+      "author": "priest",
+      "author_ids": [
+        "recE9jrAWFoDc55ba"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2022-05-17T06:26:52.000Z",
+      "created_date": "2022-05-16T00:41:06.000Z",
+      "effective_date": "2022-05-17T06:26:52.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "recj7pBZPSp9NUNlZ",
+      "title": "This is what inequality looks like",
+      "author": "Youyenn Teo",
+      "author_ids": [
+        "reclriM28nXSBSpDs"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "general knowledge"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2022-04-10T11:34:56.000Z",
+      "created_date": "2022-03-21T01:30:04.000Z",
+      "effective_date": "2022-04-10T11:34:56.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "rec5Am7xkGwTGc19v",
+      "title": "绝对不在场证明",
+      "author": "大山诚一郎",
+      "author_ids": [
+        "recBEDGJ0DMMyGszu"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "里面是七篇短篇小说",
+      "read_modified_date": "2022-03-27T01:56:01.000Z",
+      "created_date": "2022-03-22T00:17:28.000Z",
+      "effective_date": "2022-03-27T01:56:01.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "recqgrARjLajJHYXH",
+      "title": "Cosmos",
+      "author": "Carl Sagan",
+      "author_ids": [
+        "recsP9mx8vyFwrEMZ"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "physics"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "",
+      "read_modified_date": "2022-03-25T04:43:12.000Z",
+      "created_date": "2019-02-04T17:12:19.000Z",
+      "effective_date": "2022-03-25T04:43:12.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "recDHTGBccfqfrDJF",
+      "title": "香初上舞",
+      "author": "藤萍",
+      "author_ids": [
+        "recLop0eKS7jjMh9N"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2022-03-22T00:06:34.000Z",
+      "effective_date": "2022-03-22T00:06:34.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "recGRg1C38xWnPrjE",
+      "title": "The Witcher",
+      "author": "Andrzej Sapkowski",
+      "author_ids": [
+        "rec1LrnboNMQY5cIc"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "7 books in the series. Everyone except Dandelion and Ciri died in the end.",
+      "read_modified_date": "2022-01-12T07:04:18.000Z",
+      "created_date": "2021-12-21T13:11:06.000Z",
+      "effective_date": "2022-01-12T07:04:18.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "recXktPRRs78SbcAs",
+      "title": "Come as you are",
+      "author": "Emily Nagoski",
+      "author_ids": [
+        "recR3CpzsxYAuICbw"
+      ],
+      "category": "nonfiction",
+      "tags": [],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "About sex life",
+      "read_modified_date": "2022-01-09T23:48:44.000Z",
+      "created_date": "2021-10-09T00:55:24.000Z",
+      "effective_date": "2022-01-09T23:48:44.000Z",
+      "read_year": 2022
+    },
+    {
+      "id": "recmyf7nwRgO05aA6",
+      "title": "唐玄武门",
+      "author": "老克",
+      "author_ids": [
+        "recSbjTkvoCe7HSEZ"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "历史小说"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "天下长安电视剧原小说",
+      "read_modified_date": "2021-12-22T09:42:13.000Z",
+      "created_date": "2018-05-10T08:18:26.000Z",
+      "effective_date": "2021-12-22T09:42:13.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recbajxnGRhcwrGGz",
+      "title": "Spin",
+      "author": "Robert Charles Wilson",
+      "author_ids": [
+        "reclBoRcWvI3W89Lb"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "The writing is really good",
+      "read_modified_date": "2021-10-28T22:46:45.000Z",
+      "created_date": "2021-10-09T00:54:38.000Z",
+      "effective_date": "2021-10-28T22:46:45.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "rec93EXN303YspBoB",
+      "title": "忘川",
+      "author": "沧月",
+      "author_ids": [
+        "recadbOzap7K01B8w"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2021-10-25T17:53:49.000Z",
+      "created_date": "2021-10-17T11:32:49.000Z",
+      "effective_date": "2021-10-25T17:53:49.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recuZatTCyt6TZ9Ng",
+      "title": "The Myth of Sisyphus",
+      "author": "Albert Camus ",
+      "author_ids": [
+        "recfb8UvSb8Liejlm"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Didn't finish the second part",
+      "read_modified_date": "2021-10-23T10:11:40.000Z",
+      "created_date": "2019-11-27T18:27:40.000Z",
+      "effective_date": "2021-10-23T10:11:40.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "rec2OtfnlVGktIO5T",
+      "title": "沉睡的森林",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2021-10-11T07:55:58.000Z",
+      "created_date": "2021-10-10T01:13:16.000Z",
+      "effective_date": "2021-10-11T07:55:58.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recJKU7SpjMAuLwGR",
+      "title": "红手指",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2021-10-09T01:14:20.000Z",
+      "created_date": "2021-10-09T01:14:06.000Z",
+      "effective_date": "2021-10-09T01:14:20.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recHFWWEcVrAClKPC",
+      "title": "The Man Who Mistook His Wife For a Hat",
+      "author": "Oliver Sacks",
+      "author_ids": [
+        "rec2QeQIWkgOHKKEY"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "general knowledge"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "psychological/neurological disorders",
+      "read_modified_date": "2021-10-09T00:46:30.000Z",
+      "created_date": "2020-04-25T09:17:50.000Z",
+      "effective_date": "2021-10-09T00:46:30.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recsBz8sdCwVIiYdE",
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "author_ids": [
+        "recnjfPLZg5cguWmB"
+      ],
+      "category": "fiction",
+      "tags": [],
+      "language": "english",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "",
+      "read_modified_date": "2021-10-08T01:12:14.000Z",
+      "created_date": "2021-10-02T17:48:04.000Z",
+      "effective_date": "2021-10-08T01:12:14.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recDOjxtzZ7SWOTU6",
+      "title": "时间移民",
+      "author": "刘慈欣",
+      "author_ids": [
+        "recUYhoIlIqan1Zyd"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2021-10-04T00:05:19.000Z",
+      "created_date": "2021-09-21T18:44:01.000Z",
+      "effective_date": "2021-10-04T00:05:19.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recA8JtmdOiPdudVf",
+      "title": "新参者",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2021-10-03T20:20:35.000Z",
+      "created_date": "2021-10-02T17:47:19.000Z",
+      "effective_date": "2021-10-03T20:20:35.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recbLReCmSzHeBR2S",
+      "title": "假面山庄",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2021-09-22T07:24:50.000Z",
+      "created_date": "2021-09-21T10:07:48.000Z",
+      "effective_date": "2021-09-22T07:24:50.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recXl7aklti6QLF26",
+      "title": "张公案",
+      "author": "大风刮过",
+      "author_ids": [
+        "rec5gDxfLfA2ubffs"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2021-09-21T15:11:14.000Z",
+      "created_date": "2021-08-28T06:58:49.000Z",
+      "effective_date": "2021-09-21T15:11:14.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recobuKK8xxHvrGh5",
+      "title": "沉默的巡游",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2021-08-28T06:59:41.000Z",
+      "created_date": "2020-10-02T19:13:37.000Z",
+      "effective_date": "2021-08-28T06:59:41.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "rec76XGK8bZlb5o2L",
+      "title": "龙缘",
+      "author": "大风刮过",
+      "author_ids": [
+        "rec5gDxfLfA2ubffs"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy"
+      ],
+      "language": "chinese",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2021-08-27T17:16:40.000Z",
+      "effective_date": "2021-08-27T17:16:40.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recw5cu0rEyj9c2Bv",
+      "title": "龙族I",
+      "author": "江南",
+      "author_ids": [
+        "rec9oPfGX4h6P2osD"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Not my type, stopped halfway",
+      "read_modified_date": "2021-08-27T17:16:05.000Z",
+      "created_date": "2018-02-26T04:26:27.000Z",
+      "effective_date": "2021-08-27T17:16:05.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "reccM8GiLmfbDxQAF",
+      "title": "天官赐福",
+      "author": "墨香铜臭",
+      "author_ids": [
+        "rec5UIh9rMZDeznBj"
+      ],
+      "category": "fiction",
+      "tags": [],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2021-07-11T06:48:34.000Z",
+      "created_date": "2021-07-11T06:48:15.000Z",
+      "effective_date": "2021-07-11T06:48:34.000Z",
+      "read_year": 2021
+    },
+    {
+      "id": "recIY7UHvcrrQGSGG",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "author_ids": [
+        "recs00mK6gjVunR3T"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2020-10-02T19:14:20.000Z",
+      "created_date": "2019-03-15T09:24:39.000Z",
+      "effective_date": "2020-10-02T19:14:20.000Z",
+      "read_year": 2020
+    },
+    {
+      "id": "recXiUCTJNqCRKmw0",
+      "title": "无证之罪",
+      "author": "紫金陈",
+      "author_ids": [
+        "recM0wCgb3q1YYIY4"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2020-07-04T21:42:17.000Z",
+      "created_date": "2020-07-01T09:45:26.000Z",
+      "effective_date": "2020-07-04T21:42:17.000Z",
+      "read_year": 2020
+    },
+    {
+      "id": "recEAwHsZ4xSv5ogW",
+      "title": "坏小孩",
+      "author": "紫金陈",
+      "author_ids": [
+        "recM0wCgb3q1YYIY4"
+      ],
+      "category": "fiction",
+      "tags": [
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2020-07-04T21:42:13.000Z",
+      "created_date": "2020-07-01T09:44:39.000Z",
+      "effective_date": "2020-07-04T21:42:13.000Z",
+      "read_year": 2020
+    },
+    {
+      "id": "recFFGaSwMjPsPbLz",
+      "title": "Never Split the Difference: Negotiating As If Your Life Depended On It",
+      "author": "Christopher Voss",
+      "author_ids": [
+        "reczj28ZEQALfdsRI"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "general knowledge"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2020-04-26T18:34:05.000Z",
+      "created_date": "2020-04-25T09:17:07.000Z",
+      "effective_date": "2020-04-26T18:34:05.000Z",
+      "read_year": 2020
+    },
+    {
+      "id": "recvBYZyi595I0zAz",
+      "title": "有匪",
+      "author": "priest",
+      "author_ids": [
+        "recE9jrAWFoDc55ba"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠",
+        "言情"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "read good reviews about it",
+      "read_modified_date": "2020-01-08T08:07:55.000Z",
+      "created_date": "2018-02-26T04:29:37.000Z",
+      "effective_date": "2020-01-08T08:07:55.000Z",
+      "read_year": 2020
+    },
+    {
+      "id": "recnG224SJmhE5CrG",
+      "title": "绝代双骄",
+      "author": "古龙",
+      "author_ids": [
+        "recOV51FojWXdUmsb"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2019-12-21T04:29:02.000Z",
+      "created_date": "2018-08-26T16:49:09.000Z",
+      "effective_date": "2019-12-21T04:29:02.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recInQKLoSmq5M8eb",
+      "title": "我杀了他",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2019-12-12T06:48:17.000Z",
+      "created_date": "2019-12-11T15:29:11.000Z",
+      "effective_date": "2019-12-12T06:48:17.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recjLUmEVZvQtdeir",
+      "title": "On the Heights of Despair",
+      "author": "Emil M. Cioran",
+      "author_ids": [
+        "recs7Sl6jq2ThP7TG"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2019-12-11T15:29:06.000Z",
+      "created_date": "2018-05-03T04:43:24.000Z",
+      "effective_date": "2019-12-11T15:29:06.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recaIYzRUEBbifUCz",
+      "title": "The Stranger",
+      "author": "Albert Camus ",
+      "author_ids": [
+        "recfb8UvSb8Liejlm"
+      ],
+      "category": "fiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "A short read",
+      "read_modified_date": "2019-12-07T16:35:13.000Z",
+      "created_date": "2019-05-19T10:14:08.000Z",
+      "effective_date": "2019-12-07T16:35:13.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recdDP6l6M14KRpOr",
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Unknown Author",
+      "author_ids": [],
+      "category": "nonfiction",
+      "tags": [
+        "programming"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "https://sophia.javeriana.edu.co/~cbustaca/docencia/DSBP-2018-01/recursos/Erich%20Gamma,%20Richard%20Helm,%20Ralph%20Johnson,%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20%281994%29.pdf",
+      "read_modified_date": "2019-12-05T11:49:14.000Z",
+      "created_date": "2019-05-14T16:13:58.000Z",
+      "effective_date": "2019-12-05T11:49:14.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "rec8GI8JHDus3IBQN",
+      "title": "A Primer on Memory Consistency and Cache Coherence",
+      "author": "Unknown Author",
+      "author_ids": [],
+      "category": "nonfiction",
+      "tags": [
+        "programming"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "Recommended by someone on hackernews ",
+      "read_modified_date": null,
+      "created_date": "2019-11-21T06:37:52.000Z",
+      "effective_date": "2019-11-21T06:37:52.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recizL04CO4bHCbXT",
+      "title": "月下美人来",
+      "author": "梦三生",
+      "author_ids": [
+        "recMPhOhLogLRi5An"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠",
+        "言情"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "这本不好看",
+      "read_modified_date": "2019-11-05T18:18:12.000Z",
+      "created_date": "2019-10-28T02:18:20.000Z",
+      "effective_date": "2019-11-05T18:18:12.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recZhnKSpNvlaLU4r",
+      "title": "恶意",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2019-10-29T01:45:46.000Z",
+      "created_date": "2019-10-28T02:40:47.000Z",
+      "effective_date": "2019-10-29T01:45:46.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recOOCFQYtea86K9X",
+      "title": "圣女的救济",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2019-10-28T02:22:20.000Z",
+      "created_date": "2019-10-28T02:22:04.000Z",
+      "effective_date": "2019-10-28T02:22:20.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recnV7KyWLa8rZxZg",
+      "title": "谁杀了她",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "",
+      "read_modified_date": "2019-10-28T02:17:52.000Z",
+      "created_date": "2019-10-28T02:17:25.000Z",
+      "effective_date": "2019-10-28T02:17:52.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recbSADHzxq2rSMsz",
+      "title": "吉祥纹莲花楼",
+      "author": "藤萍",
+      "author_ids": [
+        "recLop0eKS7jjMh9N"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠",
+        "悬疑探案"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "豆瓣8.7，一共四卷",
+      "read_modified_date": "2019-10-06T05:23:19.000Z",
+      "created_date": "2018-05-14T08:51:38.000Z",
+      "effective_date": "2019-10-06T05:23:19.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recAdAXz9GwBR8vvP",
+      "title": "One, No One and One Hundred Thousand",
+      "author": "Luigi Pirandello",
+      "author_ids": [
+        "recLtxCtRPYxeY3Xa"
+      ],
+      "category": "fiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2019-10-06T05:21:30.000Z",
+      "effective_date": "2019-10-06T05:21:30.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recD2Rsbg8cVb8V8y",
+      "title": "长安十二时辰",
+      "author": "马伯庸",
+      "author_ids": [
+        "rect9s2hj0tVwhUxI"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2019-07-20T07:00:20.000Z",
+      "created_date": "2019-07-20T06:59:53.000Z",
+      "effective_date": "2019-07-20T07:00:20.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recD4u0rWEuPhylYJ",
+      "title": "白夜行",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2019-06-07T17:32:18.000Z",
+      "created_date": "2019-06-05T10:46:28.000Z",
+      "effective_date": "2019-06-07T17:32:18.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recdnNRfPvVnxPU1v",
+      "title": "嫌疑人X的献身",
+      "author": "东野圭吾",
+      "author_ids": [
+        "recB8qjKASao4QlfX"
+      ],
+      "category": "fiction",
+      "tags": [
+        "detective"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "",
+      "read_modified_date": "2019-06-05T10:46:26.000Z",
+      "created_date": "2019-06-05T10:45:37.000Z",
+      "effective_date": "2019-06-05T10:46:26.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "reclFIFCcz59ctBkA",
+      "title": "The Plague",
+      "author": "Albert Camus ",
+      "author_ids": [
+        "recfb8UvSb8Liejlm"
+      ],
+      "category": "fiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2019-05-19T10:17:39.000Z",
+      "effective_date": "2019-05-19T10:17:39.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recAemM9l36JdjWSJ",
+      "title": "A Happy Death",
+      "author": "Albert Camus ",
+      "author_ids": [
+        "recfb8UvSb8Liejlm"
+      ],
+      "category": "fiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2019-05-19T10:16:55.000Z",
+      "effective_date": "2019-05-19T10:16:55.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recDgQXildbGfH9Wg",
+      "title": "The Art of Multiprocessor Programming",
+      "author": "Nir Shavit",
+      "author_ids": [
+        "recHwKyrOblSCNQe7"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "programming"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "https://www.e-reading.club/bookreader.php/134637/Herlihy,_Shavit_-_The_art_of_multiprocessor_programming.pdf",
+      "read_modified_date": null,
+      "created_date": "2019-05-14T16:11:08.000Z",
+      "effective_date": "2019-05-14T16:11:08.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recBZVWJJuZgSTIiX",
+      "title": "The Problems of Philosophy",
+      "author": "Bertrand Russell",
+      "author_ids": [
+        "reciRqdPte0MAkO2Z"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Excellent, short, easy to understand, great as an introduction to philosophy.\nquite short\nhttp://www.freeclassicebooks.com/Bertrand%20Russell/The%20Problems%20of%20Philosophy.pdf",
+      "read_modified_date": "2019-05-14T14:38:33.000Z",
+      "created_date": "2018-06-25T11:26:29.000Z",
+      "effective_date": "2019-05-14T14:38:33.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "rec3dR9Rz5xyPLpOp",
+      "title": "Java concurrency in practice",
+      "author": "Brian Goetz",
+      "author_ids": [
+        "rec6nhCSdylrYH9nc"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "programming"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "https://github.com/evangelist64/java-concurrency/blob/master/Java%20concurrency%20in%20practice.pdf",
+      "read_modified_date": "2019-05-12T09:45:24.000Z",
+      "created_date": "2019-01-09T02:39:16.000Z",
+      "effective_date": "2019-05-12T09:45:24.000Z",
+      "read_year": 2019
+    },
+    {
+      "id": "recj7nzM0qZXpOZig",
+      "title": "三体X 观想之宙",
+      "author": "宝树",
+      "author_ids": [
+        "recdb9H3wD5QWkl21"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "三体同人",
+      "read_modified_date": null,
+      "created_date": "2018-12-17T17:21:03.000Z",
+      "effective_date": "2018-12-17T17:21:03.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recymQQSWNvvIgoZQ",
+      "title": "将夜",
+      "author": "猫腻",
+      "author_ids": [
+        "recBUC4EAt5fVwmuF"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠",
+        "奇幻fantasy"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "世界架构很棒，后半部有点拖",
+      "read_modified_date": null,
+      "created_date": "2018-12-05T01:45:01.000Z",
+      "effective_date": "2018-12-05T01:45:01.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recYmdeQwglvTXgTd",
+      "title": "西游日记",
+      "author": "今何在",
+      "author_ids": [
+        "recXjnS79Ja0SOzwe"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-09-22T05:08:29.000Z",
+      "effective_date": "2018-09-22T05:08:29.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recqwOwU6Sl6QEq3u",
+      "title": "Curious",
+      "author": "Ian Leslie",
+      "author_ids": [
+        "recG3ksC7eKMz6RcG"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "general knowledge"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-09-22T05:06:58.000Z",
+      "effective_date": "2018-09-22T05:06:58.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recOxGVSJwJBFk86y",
+      "title": "此间的少年",
+      "author": "江南",
+      "author_ids": [
+        "rec9oPfGX4h6P2osD"
+      ],
+      "category": "fiction",
+      "tags": [
+        "现代",
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-07-19T05:14:26.000Z",
+      "effective_date": "2018-07-19T05:14:26.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recImWMJDItiNzGr6",
+      "title": "悟空传",
+      "author": "今何在",
+      "author_ids": [
+        "recXjnS79Ja0SOzwe"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-07-19T05:11:17.000Z",
+      "effective_date": "2018-07-19T05:11:17.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recJSop83Scz3Y4lI",
+      "title": "若星汉天空",
+      "author": "今何在",
+      "author_ids": [
+        "recXjnS79Ja0SOzwe"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy",
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-07-19T05:10:48.000Z",
+      "effective_date": "2018-07-19T05:10:48.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recKZbRsNnHI3v6Ah",
+      "title": "The Last Question",
+      "author": "Isaac Asimov",
+      "author_ids": [
+        "rec6vmVAiQx45dbpu"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction",
+        "short story"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-07-15T06:50:55.000Z",
+      "effective_date": "2018-07-15T06:50:55.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "rec74V1ZzoKPa0mnI",
+      "title": "A Thousand Splendid Suns",
+      "author": "Khaled Hosseini",
+      "author_ids": [
+        "recdytDInQGjfBeIC"
+      ],
+      "category": "fiction",
+      "tags": [],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-07-13T18:04:57.000Z",
+      "effective_date": "2018-07-13T18:04:57.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recKaEw7XkJypTkxS",
+      "title": "天龙八部",
+      "author": "金庸",
+      "author_ids": [
+        "recz3aub7qo2mRl7j"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-06-13T17:34:08.000Z",
+      "effective_date": "2018-06-13T17:34:08.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recbemsGZOMzuItEr",
+      "title": "I Am a Strange Loop",
+      "author": "Douglas R. Hofstadter",
+      "author_ids": [
+        "reclQOZZ2URW5etYk"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "About consciousness",
+      "read_modified_date": null,
+      "created_date": "2018-06-13T03:02:21.000Z",
+      "effective_date": "2018-06-13T03:02:21.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recFWXv29z1snqEdS",
+      "title": "连城诀",
+      "author": "金庸",
+      "author_ids": [
+        "recz3aub7qo2mRl7j"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-06-13T01:27:03.000Z",
+      "effective_date": "2018-06-13T01:27:03.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "rec0P8I0dKRRFzQsf",
+      "title": "斩春",
+      "author": "十四郎",
+      "author_ids": [
+        "recYgDn8cjEpLQoA9"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "读过最好的武侠之一，和天下不帅媲美",
+      "read_modified_date": null,
+      "created_date": "2018-06-12T16:35:15.000Z",
+      "effective_date": "2018-06-12T16:35:15.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recV9hr3TQ7h9IHn8",
+      "title": "流水迢迢",
+      "author": "箫楼",
+      "author_ids": [
+        "recRE19lLmMgbcloo"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-06-12T15:34:18.000Z",
+      "effective_date": "2018-06-12T15:34:18.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recDXPAJlihfjm5oH",
+      "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+      "author": "Douglas R. Hofstadter",
+      "author_ids": [
+        "reclQOZZ2URW5etYk"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "want to buy, there are some interesting analogies\nwas borrowed from bingjie",
+      "read_modified_date": null,
+      "created_date": "2018-06-10T02:40:26.000Z",
+      "effective_date": "2018-06-10T02:40:26.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recFdiGoxsnMt0dVo",
+      "title": "雪中悍刀行",
+      "author": "烽火戏诸侯",
+      "author_ids": [
+        "reclN3OxDUJA5DjBq"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "武侠+玄幻",
+      "read_modified_date": null,
+      "created_date": "2018-05-17T03:35:18.000Z",
+      "effective_date": "2018-05-17T03:35:18.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recJat7KWMiljDnF9",
+      "title": "Astronomical Algorithms",
+      "author": "Jean Meeus",
+      "author_ids": [
+        "recBAQulgYBdIXn8w"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "physics"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "Darren Chua recommends",
+      "read_modified_date": null,
+      "created_date": "2018-05-06T03:27:58.000Z",
+      "effective_date": "2018-05-06T03:27:58.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "rec8ayj7yswyCnVOW",
+      "title": "A Short History of Decay",
+      "author": "Emil M. Cioran",
+      "author_ids": [
+        "recs7Sl6jq2ThP7TG"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-05-03T16:30:29.000Z",
+      "effective_date": "2018-05-03T16:30:29.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recUlDoB2LAF9TtJA",
+      "title": "The Trouble with Being Born",
+      "author": "Emil M. Cioran",
+      "author_ids": [
+        "recs7Sl6jq2ThP7TG"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-05-03T04:42:50.000Z",
+      "effective_date": "2018-05-03T04:42:50.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recaguH69mllza6HF",
+      "title": "Tears and Saints",
+      "author": "Emil M. Cioran",
+      "author_ids": [
+        "recs7Sl6jq2ThP7TG"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "This book was inspired by Beyond Good and Evil.",
+      "read_modified_date": null,
+      "created_date": "2018-03-28T00:11:28.000Z",
+      "effective_date": "2018-03-28T00:11:28.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recmDUaSwOlEcuTDZ",
+      "title": "天下不帅",
+      "author": "李惟七",
+      "author_ids": [
+        "recFmvVQD8kja42hz"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": true,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-03-21T12:29:10.000Z",
+      "effective_date": "2018-03-21T12:29:10.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recaWsd9DSe8vi6FA",
+      "title": "楚留香传奇",
+      "author": "古龙",
+      "author_ids": [
+        "recOV51FojWXdUmsb"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-03-21T12:28:25.000Z",
+      "effective_date": "2018-03-21T12:28:25.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recx5DgA1QLEzgRxB",
+      "title": "明朝那些事儿",
+      "author": "当年明月",
+      "author_ids": [
+        "recDvwpCiwAZX9Yyw"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "历史小说"
+      ],
+      "language": "chinese",
+      "read_status": false,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2018-03-21T12:26:29.000Z",
+      "effective_date": "2018-03-21T12:26:29.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recvRXT9OPFdFrfOK",
+      "title": "武林外史",
+      "author": "古龙",
+      "author_ids": [
+        "recOV51FojWXdUmsb"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "烂尾了",
+      "read_modified_date": null,
+      "created_date": "2018-03-20T12:22:35.000Z",
+      "effective_date": "2018-03-20T12:22:35.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recpFclQp1kz1NuG4",
+      "title": "Nightfall",
+      "author": "Isaac Asimov",
+      "author_ids": [
+        "rec6vmVAiQx45dbpu"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction",
+        "short story"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "'And  I've got another cute little notion,' Beenay said. 'Have you ever thought  what a simple problem gravitation would  be if  only you had a sufficiently simple system? Supposing you had a universe in which there was a planet with only one sun. The planet would travel in a perfect ellipse and the exact nature of the gravitational force would be so evident it could be accepted as an axiom. Astronomers on such a world would start off with gravity  probably before they even invented the telescope.  Naked-eye observation would be enough.'\n     'But would such a system be dynamically stable?' questioned Sheerin doubtfully.\n     'Sure! They call it the \"one-and-one\" case. It's been worked out mathematically, but it's the philosophical implications that interest me.'\n     'It's nice to think about,' admitted  Sheerin, 'as a pretty abstraction--like a perfect gas, or absolute zero.'\n     'Of course,' continued Beenay, 'there's the catch that life would be impossible on such a planet. It wouldn't get enough  heat and light, and if it rotated  there would be total Darkness half of each day. You couldn't expect  life -- which is fundamentally dependent upon light--to develop under those conditions.'",
+      "read_modified_date": null,
+      "created_date": "2018-01-31T00:27:53.000Z",
+      "effective_date": "2018-01-31T00:27:53.000Z",
+      "read_year": 2018
+    },
+    {
+      "id": "recjuLyKLvRibuse7",
+      "title": "欢乐英雄",
+      "author": "古龙",
+      "author_ids": [
+        "recOV51FojWXdUmsb"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "郭大路和燕七很甜",
+      "read_modified_date": null,
+      "created_date": "2017-12-26T14:54:43.000Z",
+      "effective_date": "2017-12-26T14:54:43.000Z",
+      "read_year": 2017
+    },
+    {
+      "id": "recmeMMF449QBF6N9",
+      "title": "多情剑客无情剑",
+      "author": "古龙",
+      "author_ids": [
+        "recOV51FojWXdUmsb"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": null,
+      "created_date": "2017-12-26T14:53:50.000Z",
+      "effective_date": "2017-12-26T14:53:50.000Z",
+      "read_year": 2017
+    },
+    {
+      "id": "recjNwPmwKSankpKR",
+      "title": "圆月弯刀",
+      "author": "古龙",
+      "author_ids": [
+        "recOV51FojWXdUmsb"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "据说后半段是代写的，把三少爷写得奇奇怪怪，而且丁鹏这么容易就和剑神打了平手，差评。",
+      "read_modified_date": null,
+      "created_date": "2017-12-26T08:05:15.000Z",
+      "effective_date": "2017-12-26T08:05:15.000Z",
+      "read_year": 2017
+    },
+    {
+      "id": "recYQ1EVxnx9uST1D",
+      "title": "三少爷的剑",
+      "author": "古龙",
+      "author_ids": [
+        "recOV51FojWXdUmsb"
+      ],
+      "category": "fiction",
+      "tags": [
+        "武侠"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "铁开诚道：“只要你一旦做了谢晓峰，就永远是谢晓峰。”他微笑，慢慢的接着道：“就算你已不再握剑，也还是谢晓峰。”",
+      "read_modified_date": null,
+      "created_date": "2017-12-26T08:04:30.000Z",
+      "effective_date": "2017-12-26T08:04:30.000Z",
+      "read_year": 2017
+    },
+    {
+      "id": "recbR57Yph6EICqtL",
+      "title": "三体",
+      "author": "刘慈欣",
+      "author_ids": [
+        "recUYhoIlIqan1Zyd"
+      ],
+      "category": "fiction",
+      "tags": [
+        "science fiction"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "三部都看完了",
+      "read_modified_date": null,
+      "created_date": "2017-11-04T14:44:54.000Z",
+      "effective_date": "2017-11-04T14:44:54.000Z",
+      "read_year": 2017
+    },
+    {
+      "id": "recXC1aiGJLiSK9KI",
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "author_ids": [
+        "recZMufOY25oCBint"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "book from bingjie\nsecond half felt less interesting",
+      "read_modified_date": null,
+      "created_date": "2017-11-04T14:22:34.000Z",
+      "effective_date": "2017-11-04T14:22:34.000Z",
+      "read_year": 2017
+    },
+    {
+      "id": "recrryASEZ5sV2PrW",
+      "title": "Critique of Pure Reason",
+      "author": "Immanuel Kant",
+      "author_ids": [
+        "recvMjVdLigqJfNFt"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "philosophy"
+      ],
+      "language": "english",
+      "read_status": false,
+      "bought": true,
+      "personal_notes": "[IN PROGRESS] reading notes: https://lingxz.gitbooks.io/notes-on-the-critique-of-pure-reason/content/\nHow are synthetic judgements a priori possible?",
+      "read_modified_date": null,
+      "created_date": "2017-11-04T14:16:53.000Z",
+      "effective_date": "2017-11-04T14:16:53.000Z",
+      "read_year": 2017
+    }
+  ]
+}

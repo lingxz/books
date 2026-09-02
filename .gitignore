@@ -1,0 +1,18 @@
+# Environment variables & API keys
+.env
+*.env
+.env.local
+.env.*.local
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
