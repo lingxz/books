@@ -1,7 +1,7 @@
 {
-  "last_synced": "2026-09-02T21:36:24.488917Z",
-  "total_books": 121,
-  "total_read": 100,
+  "last_synced": "2026-09-27T10:39:24.242497Z",
+  "total_books": 129,
+  "total_read": 108,
   "years": [
     2026,
     2025,
@@ -15,7 +15,7 @@
     2017
   ],
   "years_breakdown": {
-    "2026": 5,
+    "2026": 13,
     "2025": 9,
     "2024": 9,
     "2023": 11,
@@ -27,6 +27,167 @@
     "2017": 6
   },
   "books": [
+    {
+      "id": "recT90a9jKDskRZyg",
+      "title": "The Eye of the Bedlam Bride",
+      "author": "Matt Dinniman",
+      "author_ids": [
+        "recXnufPzAyemdtBS"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Book #6 of Dungeon Crawler Carl",
+      "read_modified_date": "2026-09-22T15:42:01.000Z",
+      "created_date": "2026-09-22T15:41:44.000Z",
+      "effective_date": "2026-09-22T15:42:01.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "rec63HhRIK0DrtwlN",
+      "title": "The Butcher's Masquerade",
+      "author": "Matt Dinniman",
+      "author_ids": [
+        "recXnufPzAyemdtBS"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Book #5 of Dungeon Crawler Carl",
+      "read_modified_date": "2026-09-16T21:09:02.000Z",
+      "created_date": "2026-09-16T21:08:39.000Z",
+      "effective_date": "2026-09-16T21:09:02.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "recbj4nm62KxaEnH7",
+      "title": "The Gate of the Feral Gods",
+      "author": "Matt Dinniman",
+      "author_ids": [
+        "recXnufPzAyemdtBS"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Book #4 of Dungeon Crawler Carl",
+      "read_modified_date": "2026-09-13T11:49:14.000Z",
+      "created_date": "2026-09-13T11:48:40.000Z",
+      "effective_date": "2026-09-13T11:49:14.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "reczwOf1gQzOFR3A4",
+      "title": "The Dungeon Anarchist's Cookbook",
+      "author": "Matt Dinniman",
+      "author_ids": [
+        "recXnufPzAyemdtBS"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Book #3 of Dungeon Crawler Carl",
+      "read_modified_date": "2026-09-12T09:28:11.000Z",
+      "created_date": "2026-09-12T09:27:48.000Z",
+      "effective_date": "2026-09-12T09:28:11.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "recehf41GdFf90MXg",
+      "title": "Carl's Doomsday Scenario",
+      "author": "Matt Dinniman",
+      "author_ids": [
+        "recXnufPzAyemdtBS"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "Boon #2 in Dungeon Crawler Carl",
+      "read_modified_date": "2026-09-09T21:11:39.000Z",
+      "created_date": "2026-09-09T21:11:16.000Z",
+      "effective_date": "2026-09-09T21:11:39.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "recyAR6vTjHEGV1Lb",
+      "title": "Dungeon Crawler Carl",
+      "author": "Matt Dinniman",
+      "author_ids": [
+        "recXnufPzAyemdtBS"
+      ],
+      "category": "fiction",
+      "tags": [
+        "奇幻fantasy"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "1st in the series",
+      "read_modified_date": "2026-09-08T17:11:48.000Z",
+      "created_date": "2026-09-08T17:11:07.000Z",
+      "effective_date": "2026-09-08T17:11:48.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "recQyBSenVP8zvp8o",
+      "title": "天亮了，你就回来了",
+      "author": "籽月",
+      "author_ids": [
+        "recWSyeCzmuRZ6wC1"
+      ],
+      "category": "fiction",
+      "tags": [
+        "言情",
+        "现代"
+      ],
+      "language": "chinese",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2026-09-06T23:10:58.000Z",
+      "created_date": "2026-09-06T23:10:33.000Z",
+      "effective_date": "2026-09-06T23:10:58.000Z",
+      "read_year": 2026
+    },
+    {
+      "id": "recu3dQWEHJX5wCMb",
+      "title": "Unease",
+      "author": "Teo You Yenn",
+      "author_ids": [
+        "reclriM28nXSBSpDs"
+      ],
+      "category": "nonfiction",
+      "tags": [
+        "general knowledge"
+      ],
+      "language": "english",
+      "read_status": true,
+      "bought": false,
+      "personal_notes": "",
+      "read_modified_date": "2026-09-05T07:40:23.000Z",
+      "created_date": "2026-09-05T07:39:47.000Z",
+      "effective_date": "2026-09-05T07:40:23.000Z",
+      "read_year": 2026
+    },
     {
       "id": "rec7e9gULcGP6SmXy",
       "title": "Prisoners of Geography",
@@ -882,7 +1043,7 @@
     {
       "id": "recj7pBZPSp9NUNlZ",
       "title": "This is what inequality looks like",
-      "author": "Youyenn Teo",
+      "author": "Teo You Yenn",
       "author_ids": [
         "reclriM28nXSBSpDs"
       ],
