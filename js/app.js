@@ -6,9 +6,11 @@
 document.addEventListener('DOMContentLoaded', () => {
   let catalogData = null;
 
+  const currentYear = new Date().getFullYear().toString();
+
   // App State
   const state = {
-    selectedYear: 'ALL',
+    selectedYear: currentYear,
     selectedCategory: 'ALL',
     selectedLanguage: 'ALL',
     selectedTag: 'ALL',
@@ -73,6 +75,15 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function initApp() {
+    const currentYear = new Date().getFullYear().toString();
+    if (catalogData && catalogData.years && catalogData.years.length > 0) {
+      if (catalogData.years.some(yr => String(yr) === currentYear)) {
+        state.selectedYear = currentYear;
+      } else {
+        state.selectedYear = String(catalogData.years[0]);
+      }
+    }
+
     setupEventListeners();
     renderYearPills();
     renderTagBar();
